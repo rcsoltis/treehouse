@@ -13,7 +13,7 @@ $display_name = 'Cary Soltis';
     <div id="wrap">
         <section class="sidebar text-center">
           <div class="avatar">
-            <img src="img/logo.png" alt="Alt For Image">
+            <img src="img/img.jpeg" alt="Alt For Image">
           </div>
           <h1><?php echo $display_name;?></h1>
           <p>Contact:<br />
@@ -44,8 +44,8 @@ $display_name = 'Cary Soltis';
           <h2>Multi-Dimensional Array</h2>
             <?php include 'inc/associative_arrays.php'; ?>
             
-          <h2>Loops</h2>
-            <?php include 'inc/loops.php'; ?>
+         <h2>Loops</h2>
+        
         </section>
     </div>
     <section class="footer text-center">
