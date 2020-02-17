@@ -45,6 +45,7 @@ $display_name = 'Cary Soltis';
             <?php include 'inc/associative_arrays.php'; ?>
             
          <h2>Loops</h2>
+            <?php include 'inc/loops.php'; ?>
         
         </section>
     </div>
